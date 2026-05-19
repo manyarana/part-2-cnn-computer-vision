@@ -78,14 +78,6 @@ part-2-cnn-computer-vision/
 ├── README.md
 ├── notebook.ipynb
 ├── requirements.txt
-├── labels.csv
-│
-├── images/
-│   ├── normal/
-│   ├── scratch/
-│   ├── dent/
-│   └── stain/
-│
 ├── sample_predictions/
 │   └── prediction_outputs.png
 │
